@@ -1,1 +1,1 @@
-# camunda-outbox-pattern
+# eu.jaam.camunda-outbox-pattern

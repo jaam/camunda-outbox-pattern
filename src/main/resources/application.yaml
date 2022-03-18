@@ -1,0 +1,12 @@
+camunda:
+  bpm:
+    job-execution:
+      core-pool-size: 6
+      max-pool-size: 12
+    deployment-resource-pattern:
+      - classpath:/bpmn/*.bpmn
+
+spring:
+  h2:
+    console:
+      enabled: true
